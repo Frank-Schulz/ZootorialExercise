@@ -2,7 +2,7 @@
 
 namespace Zootorial
 {
-    class Program
+    class Zoo
     {
         static void Main(string[] args)
         {
