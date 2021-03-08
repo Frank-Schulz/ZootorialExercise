@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxad\\OneDrive\\NMIT\\Sem1 2021\\SDV601\\Course Work\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\maxad\\OneDrive\\NMIT\\Sem1 2021\\SDV601\\Course Work\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\maxad\\OneDrive\\NMIT\\Sem1 2021\\SDV601\\Course Work\\Zoo Lesson\\ZootorialExercise\\ConsoleApp1\\ZootorialExercise.csproj",
+      "projectName": "ZootorialExercise",
+      "projectPath": "C:\\Users\\maxad\\OneDrive\\NMIT\\Sem1 2021\\SDV601\\Course Work\\Zoo Lesson\\ZootorialExercise\\ConsoleApp1\\ZootorialExercise.csproj",
       "packagesPath": "C:\\Users\\maxad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxad\\OneDrive\\NMIT\\Sem1 2021\\SDV601\\Course Work\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\maxad\\OneDrive\\NMIT\\Sem1 2021\\SDV601\\Course Work\\Zoo Lesson\\ZootorialExercise\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maxad\\AppData\\Roaming\\NuGet\\NuGet.Config",
