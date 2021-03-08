@@ -6,7 +6,7 @@ namespace Zootorial
 {
     public class Lion : Animal
     {
-        public override void addAnimal()
+        public override void AddAnimal()
         {
             throw new NotImplementedException();
         }

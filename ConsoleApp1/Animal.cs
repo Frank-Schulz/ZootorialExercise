@@ -14,7 +14,7 @@ namespace Zootorial
         public string Sound { get => _sound; set => _sound = value; }
         public string Species { get => _species; set => _species = value; }
 
-        protected abstract Animal addAnimal()
+        protected abstract Animal AddAnimal()
         {
             
         }

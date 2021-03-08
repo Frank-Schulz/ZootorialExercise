@@ -10,12 +10,12 @@ namespace Zootorial
         static void Main(string[] args)
         {
             var zoo = new Zoo();
-            zoo.getAnimals();
+            zoo.GetAnimals();
             Console.WriteLine("Welcome to the zoo!");
             Console.WriteLine("Here is our current list of animals we have here:");
-            foreach (string i in zoo.AnimalList)
+            foreach (var animal in zoo.AnimalList)
             {
-                Console.WriteLine(zoo.AnimalList.Name + "")
+                Console.WriteLine(animal + "");
             }
 
         }

@@ -8,7 +8,7 @@ namespace Zootorial
     {
         public List<Animal> AnimalList;
         
-        public void getAnimals()
+        public void GetAnimals()
         {
             AnimalList.Add(Lion, Tiger, Mouse);
         }

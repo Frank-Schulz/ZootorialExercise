@@ -6,7 +6,7 @@ namespace Zootorial
 {
     public class Mouse : Animal
     {
-        public override void addAnimal()
+        public override void AddAnimal()
         {
             
         }
