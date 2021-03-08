@@ -2,9 +2,13 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ZootorialExercise
+namespace Zootorial
 {
     public class Mouse : Animal
     {
+        public override void addAnimal()
+        {
+            
+        }
     }
 }

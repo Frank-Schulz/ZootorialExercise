@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ZootorialExercise
+namespace Zootorial
 {
     public abstract class Animal
     {
@@ -14,8 +14,10 @@ namespace ZootorialExercise
         public string Sound { get => _sound; set => _sound = value; }
         public string Species { get => _species; set => _species = value; }
 
-        public List<string> Animals;
-
+        protected abstract Animal addAnimal()
+        {
+            
+        }
 
     }
 }

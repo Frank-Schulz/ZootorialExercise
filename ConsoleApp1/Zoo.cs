@@ -1,12 +1,16 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace Zootorial
 {
-    class Zoo
+    public class Zoo
     {
-        static void Main(string[] args)
+        public List<Animal> AnimalList;
+        
+        public void getAnimals()
         {
-            
+            AnimalList.Add(Lion, Tiger, Mouse);
         }
     }
 }
