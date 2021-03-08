@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxad\\OneDrive\\NMIT\\Sem1 2021\\SDV601\\Course Work\\Zoo Lesson\\ZootorialExercise\\ConsoleApp1\\ZootorialExercise.csproj": {}
+    "C:\\Users\\Eclipse\\Documents\\Workspace\\NMIT\\2021\\SDV601\\repos\\ConsoleApp1\\ZootorialExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxad\\OneDrive\\NMIT\\Sem1 2021\\SDV601\\Course Work\\Zoo Lesson\\ZootorialExercise\\ConsoleApp1\\ZootorialExercise.csproj": {
+    "C:\\Users\\Eclipse\\Documents\\Workspace\\NMIT\\2021\\SDV601\\repos\\ConsoleApp1\\ZootorialExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxad\\OneDrive\\NMIT\\Sem1 2021\\SDV601\\Course Work\\Zoo Lesson\\ZootorialExercise\\ConsoleApp1\\ZootorialExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Eclipse\\Documents\\Workspace\\NMIT\\2021\\SDV601\\repos\\ConsoleApp1\\ZootorialExercise.csproj",
         "projectName": "ZootorialExercise",
-        "projectPath": "C:\\Users\\maxad\\OneDrive\\NMIT\\Sem1 2021\\SDV601\\Course Work\\Zoo Lesson\\ZootorialExercise\\ConsoleApp1\\ZootorialExercise.csproj",
-        "packagesPath": "C:\\Users\\maxad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxad\\OneDrive\\NMIT\\Sem1 2021\\SDV601\\Course Work\\Zoo Lesson\\ZootorialExercise\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\Eclipse\\Documents\\Workspace\\NMIT\\2021\\SDV601\\repos\\ConsoleApp1\\ZootorialExercise.csproj",
+        "packagesPath": "C:\\Users\\Eclipse\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eclipse\\Documents\\Workspace\\NMIT\\2021\\SDV601\\repos\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maxad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eclipse\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
