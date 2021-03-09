@@ -11,3 +11,9 @@ C:\Users\maxad\OneDrive\NMIT\Sem1 2021\SDV601\Course Work\Zoo Lesson\ZootorialEx
 C:\Users\maxad\OneDrive\NMIT\Sem1 2021\SDV601\Course Work\Zoo Lesson\ZootorialExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\ZootorialExercise.dll
 C:\Users\maxad\OneDrive\NMIT\Sem1 2021\SDV601\Course Work\Zoo Lesson\ZootorialExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\ZootorialExercise.pdb
 C:\Users\maxad\OneDrive\NMIT\Sem1 2021\SDV601\Course Work\Zoo Lesson\ZootorialExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\ZootorialExercise.genruntimeconfig.cache
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\SDV601\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ZootorialExercise.csprojAssemblyReference.cache
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\SDV601\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ZootorialExercise.AssemblyInfoInputs.cache
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\SDV601\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ZootorialExercise.AssemblyInfo.cs
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\SDV601\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ZootorialExercise.csproj.CoreCompileInputs.cache
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\SDV601\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ZootorialExercise.dll
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\SDV601\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ZootorialExercise.pdb

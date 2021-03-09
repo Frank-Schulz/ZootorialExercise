@@ -6,7 +6,7 @@ namespace Zootorial
 {
     public class Tiger : Animal
     {
-        public override string GetSound()
+        public override void AddAnimal()
         {
             return "Snarl";
         }
