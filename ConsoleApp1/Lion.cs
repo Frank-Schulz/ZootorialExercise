@@ -6,9 +6,14 @@ namespace Zootorial
 {
     public class Lion : Animal
     {
-        public override void addAnimal()
+        public override string GetSound()
         {
-            throw new NotImplementedException();
+            return "Roar";
+        }
+
+        public override string GetSpecies()
+        {
+            return "Lion";
         }
     }
 }

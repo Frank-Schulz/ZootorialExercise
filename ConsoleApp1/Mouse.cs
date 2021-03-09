@@ -6,9 +6,13 @@ namespace Zootorial
 {
     public class Mouse : Animal
     {
-        public override void addAnimal()
+        public override string GetSound()
         {
-            
+            return "Squeak";
+        }
+        public override string GetSpecies()
+        {
+            return "Mouse";
         }
     }
 }

@@ -6,11 +6,7 @@ namespace Zootorial
 {
     public class Zoo
     {
-        public List<Animal> AnimalList;
+        public List<Animal> AnimalList = new List<Animal>();
         
-        public void getAnimals()
-        {
-            AnimalList.Add(Lion, Tiger, Mouse);
-        }
     }
 }
